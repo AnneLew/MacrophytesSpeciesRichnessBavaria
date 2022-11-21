@@ -1,0 +1,10 @@
+Package: MacrophytesSpeciesRichnessBavaria
+Type: Package
+Title: Species richness of submerged macrophytes in Bavarian Lakes
+Version: 0.1.0
+Author: Lewerentz, Anne
+Maintainer: Lewerentz <lewerentz@kit.edu>
+Description: Data analysis for the publication Lewerentz, Hoffmann & Cabral
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true

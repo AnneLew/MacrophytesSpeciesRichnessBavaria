@@ -1,0 +1,59 @@
+Lake;Area_ha;Volume_hm3;maxDepth_m;Altitude_masl;Nat/artifi;CatchmentArea_km2;Type;Type_simpl;See_deutsch;Name_shape;Name_chem;Name_Makro_short;Source;Considered;LastMapping;Type2;Rechtswert;Hochwert;MNW_Sommer;MW_Sommer;MHW_Sommer;MHWMNW_Diff;VQ;SizeClass;Region;Depth
+Ausee;NA;NA;NA;395;a;NA;-9;NA;Ausee;Ausee;Ausee;Ausee;#NAME?;no;;-9;;;NA;NA;NA;NA;;NA;NA;NA
+Eixendorfer See - Vorsperre;NA;NA;NA;430;a;NA;8;Low mountain;;;;;;no;;8;;;NA;NA;NA;NA;;NA;Low mountain;NA
+Knappensee;NA;NA;NA;364;a;NA;-9;NA;Knappensee;Knappensee;Knappensee;Knappensee;;no;;-9;;;NA;NA;NA;NA;;NA;NA;NA
+Schongauer Lechsee;NA;NA;15;718;a;NA;-9;NA;Schongauer Lechsee;Schongauer Lechsee;Schongauer Lechsee;;;no;;-9;;;NA;NA;NA;NA;;NA;Alpine;>12
+Chiemsee;7990;2047,84;73,4;517,37;n;1398,56;4;Alpine;Chiemsee;Chiemsee;Chiemsee;Chiemsee;Tabelle Markus;yes;2016;4;4534200;5304820;517,78;518,33;518,96;1,18;0,68294398;>500ha;Alpine;>12
+Starnberger See;5636,2;2998,92;127,8;583,52;n;312,4;4;Alpine;Starnberger See;Starnberger See;Starnberger See;Starnberger See;Tabelle Markus;yes;2017;4;4449600;5310240;584,11;584,31;584,5;0,39;0,104170835;>500ha;Alpine;>12
+Ammersee;4700;1750;81;531,51;n;993;4;Alpine;Ammersee;Ammersee;Ammersee;Ammersee;LfU;yes;2016;4;4434594;5316372;532,73;532,95;533,48;0,75;0,567428571;>500ha;Alpine;>12
+Walchensee;1600;1300;190;791,52;n;99,2;4;Alpine;Walchensee;Walchensee;Walchensee;Walchensee;LfU;no;2014;40;4450950,8;5273895,34;797,48;800,58;801,62;4,14;0,076307692;>500ha;Alpine;>12
+Forggensee;1520;NA;35,3;781;a;1594;-9;NA;Forggensee;Forggensee;Forggensee;;Wikipedia;no;;-9;;;NA;NA;NA;NA;;>500ha;Alpine;>12
+Tegernsee;893,4;324,16;72,2;725,06;n;210,5;4;Alpine;Tegernsee;Tegernsee;Tegernsee;Tegernsee;Tabelle Markus;yes;2017;4;5314880;5287732;725,23;725,4;726,15;0,92;0,649370681;>500ha;Alpine;>12
+Grosser Brombachsee;870;NA;37;411;a;59;5;Low mountain;Großer Brombachsee;Großer Brombachsee;Grosser Brombachsee;Grosser Brombachsee;Wikipedia;no;;5;;;NA;NA;NA;NA;;>500ha;Low mountain;>12
+Staffelsee - Nord;800;75;39;648,19;n;78,5;3;Prealpine;Staffelsee;Staffelsee - Nord;Staffelsee - Nord;Staffelsee - Nord;LfU;yes;2016;3;4437801,1;5284937,2;648,46;648,65;649,05;0,59;1,046666667;>500ha;Alpine;>12
+Staffelsee - Sued;800;75;39;648,19;n;78,5;3;Prealpine;Staffelsee;Staffelsee - Sued;Staffelsee - Sued;Staffelsee - Sued;LfU;yes;2016;3;4436669,1;5283478,1;648,46;648,65;649,05;0,59;1,046666667;>500ha;Alpine;>12
+Waginger See;661;90,4;27;441,23;n;123,1;3;Prealpine;Waginger See;Waginger See;Waginger See;Waginger See;Tabelle Markus;yes;2016;3;5287732;5311560;441,89;442,05;442,43;0,54;1,361725664;>500ha;Alpine;>12
+Simssee;649;87;22,5;468,94;n;83,3;3;Prealpine;Simssee;Simssee;Simssee;Simssee;Tabelle Markus;yes;2015;3;4518579;5304467;469,88;470,17;470,67;0,79;0,957471264;>500ha;Alpine;>12
+Kochelsee;600;180;66;598,39;n;785,5;4;Alpine;Kochelsee;Kochelsee;Kochelsee;Kochelsee;LfU;yes;2017;4;4451217,03;5278662,22;598,62;598,85;599,44;0,82;4,363888889;>500ha;Alpine;>12
+Koenigssee;500;512;190;603,17;n;135,1;4;Alpine;Königssee;Königsee;Koenigssee;Koenigssee;LfU;yes;2015;40;4574160;5270240;603,14;603,27;603,48;0,34;0,263867188;>500ha;Alpine;>12
+Altmuehlsee;450;NA;3;415;a;550;6;Low mountain;Altmühlsee;Altmühlsee;Altmuehlsee;Altmuehlsee;Wikipedia;no;;6;;;NA;NA;NA;NA;;100-500ha;Low mountain;<=12
+Woerthsee;433,9;63,627;34;562;n;26,35;3;Prealpine;Wörthsee;Wörthsee;Woerthsee;Woerthsee;Tabelle Markus;yes;2017;3;4439260;5324880;560,32;560,41;560,52;0,2;0,414132365;100-500ha;Alpine;>12
+Sylvensteinsee;392;NA;27;767;a;1138;-9;NA;Sylvensteinsee;Sylvensteinsee;Sylvensteinsee;;Wikipedia;no;;-9;;;NA;NA;NA;NA;;100-500ha;Alpine;>12
+Rottachsee;282;NA;30;851;a;29,75;3;Prealpine;Rottachsee;Rottachsee;Rottachsee;Rottachsee;Wikipedia;no;;3;;;NA;NA;NA;NA;;100-500ha;Alpine;>12
+Kleiner Brombachsee;250;NA;32,5;411;a;25;6;Low mountain;Kleiner Brombachsee;Kleiner Brombachsee;Kleiner Brombachsee;Kleiner Brombachsee;Wikipedia;no;;6;;;NA;NA;NA;NA;;100-500ha;Low mountain;>12
+Gr. Alpsee;247,3;32,68;22,7;723,48;n;52,3;2;Prealpine;Gr. Alpsee;Großer Alpsee;Grosser Alpsee bei Immenstadt;Gr. Alpsee;Tabelle Markus;yes;2017;2;4363112;5272192;724,65;724,87;725,46;0,81;1,600367197;100-500ha;Alpine;>12
+Tachinger See;236;21,6;16,5;442;n;31,8;3;Prealpine;Tachinger See;Tachinger See;Tachinger See;Tachinger See;Tabelle Markus;yes;2012;3;4555780;5314880;NA;NA;NA;NA;1,472222222;100-500ha;Alpine;>12
+Bannwaldsee;228;14,09;12;785,4;n;22,1;2;Prealpine;Bannwaldsee;Bannwaldsee;Bannwaldsee;Bannwaldsee;Nixdorf et al;yes;2015;2;4407880;5274020;NA;NA;NA;NA;1,56848829;100-500ha;Alpine;<=12
+Schliersee;222;53,125;40,3;776,18;n;27,1;4;Alpine;Schliersee;Schliersee;Schliersee;Schliersee;Tabelle Markus;yes;2015;40;4489845;5286369;776,63;776,82;777,27;0,64;0,510117647;100-500ha;Alpine;>12
+Pilsensee;194,57;18,095;17,1;532,89;n;53,72;2;Prealpine;Pilsensee;Pilsensee;Pilsensee;Pilsensee;Tabelle Markus;yes;2012;2;4440000;5321320;NA;NA;NA;NA;2,968775905;100-500ha;Alpine;>12
+Hopfensee;194;8,98;10,4;782,41;n;32,6;2;Prealpine;Hopfensee;Hopfensee;Hopfensee;Hopfensee;Tabelle Markus;yes;2016;2;4400719,9;5274823,6;783,81;783,92;784,35;0,54;3,630289532;100-500ha;Alpine;<=12
+Riegsee;188,47;12,776;15,4;659;n;19,94;3;Prealpine;Riegsee;Riegsee;Riegsee;Riegsee;Tabelle Markus;yes;2015;3;4441789;5285042;655,48;655,63;655,79;0,31;1,560738885;100-500ha;Alpine;>12
+Grosser Ostersee;177,63;14;29,7;588;n;36,74;2;Prealpine;Großer Ostersee;Grosser Ostersee;Grosser Ostersee;Grosser Ostersee;Tabelle Markus;yes;2017;2;4447792;5294915;NA;NA;NA;NA;2,624285714;100-500ha;Alpine;>12
+Eibsee;177;26,61;36;973;n;15,39;4;Alpine;Eibsee;Eibsee;Eibsee;Eibsee;Nixdorf et al;yes;2016;40;4423575;5258080;NA;NA;NA;NA;0,578354002;100-500ha;Alpine;>12
+Rothsee;160;NA;15;374;a;34,6;5;Low mountain;Rothsee;Rothsee;Rothsee;Rothsee;Wikipedia;no;;5;;;NA;NA;NA;NA;;100-500ha;Low mountain;>12
+Seehamer See;147;5,6;12;653;a;9,3;3;Prealpine;Seehamer See;Seehamer See;Seehamer See;Seehamer See;Wikipedia;no;;3;;;NA;NA;NA;NA;;100-500ha;Alpine;<=12
+Bueckelsee;145;NA;45;395;a;NA;-9;NA;Bückelsee;Brückelsee;Brueckelsee;Brueckelsee;Wikipedia;no;;-9;;;NA;NA;NA;NA;;100-500ha;Low mountain;>12
+Niedersonthofener See;135,5;14,818;21,3;703,53;n;18,08;3;Prealpine;Niedersonthofener See;Niedersonthofner See;Niedersonthofner See;Niedersonthofener See;Tabelle Markus;yes;2015;3;4369557;5278862;NA;NA;NA;NA;1,22013767;100-500ha;Alpine;>12
+Weissensee;134,65;16,52;24,7;787,07;n;15;3;Prealpine;Weissensee;Weißensee;Weissensee;Weissensee;Tabelle Markus;yes;2016;3;4397200;5270960;787,29;787,41;787,66;0,37;0,907990315;100-500ha;Alpine;>12
+Gruentensee;123;14,8;11;876;a;79;1;Prealpine;Grüntensee;Grüntensee;Gruentensee;Gruentensee;Wikipedia;no;;1;;;NA;NA;NA;NA;;100-500ha;Alpine;<=12
+Foermitzstausee - Hauptbecken;116;9,8;30;529;a;14;8;Low mountain;Förmitzstausee - Hauptbecken;Förmitzstausee - Hauptbecken;Foermitzstausee - Hauptbecken;;Wikipedia;no;;8;;;NA;NA;NA;NA;;100-500ha;Low mountain;>12
+Langbuergener See;104;9,09;37,3;530;n;28,9;2;Prealpine;Langbürgener See;Langbürgner See;Langbuergner See;Langbuergner See;Nixdorf et al;yes;2012;2;4526045;5307100;NA;NA;NA;NA;3,179317932;100-500ha;Alpine;>12
+Eixendorfer See;100;19,3;14;430;a;347;8;Low mountain;Eixendorfer See;Eixendorfer See;Eixendorfer See;Eixendorfer See;Wikipedia;no;;8;;;NA;NA;NA;NA;;100-500ha;Low mountain;>12
+Murner See;94;NA;50;395;a;NA;-9;NA;Murner See;Murnersee;Murnersee;Murnersee;Tabelle Markus;no;;-9;;;NA;NA;NA;NA;;<100ha;Low mountain;>12
+TWT Frauenau;94;NA;67;767;a;27;9;Low mountain;TWT Frauenau;TWT Frauenau;TWT Frauenau;;Wikipedia;no;;9;;;NA;NA;NA;NA;;<100ha;Low mountain;>12
+TWT Mauthaus-Hauptbecken;92;20,7;60;447;a;30;8;Low mountain;TWT Mauthaus-Hauptbecken;TWT Mauthaus-Hauptbecken;TWT Mauthaus-Hauptbecken;;Wikipedia;no;;8;;;NA;NA;NA;NA;;<100ha;Low mountain;>12
+Igelsbachsee;90;NA;14;411;a;15;6;Low mountain;Igelsbachsee;Igelsbachsee;Igelsbachsee;Igelsbachsee;Wikipedia;no;;6;;;NA;NA;NA;NA;;<100ha;Low mountain;>12
+Alpsee bei Schwangau;88;24,51;62;812,85;n;5;4;Alpine;Alpsee bei Schwangau;Alpsee;Alpsee bei Schwangau;Alpsee bei Schwangau;Wikipedia;yes;2017;40;4403599;5268606;NA;NA;NA;NA;0,203998368;<100ha;Alpine;>12
+Liebensteinspeicher;88;5,3;15;NA;a;74,7;-9;NA;Liebensteinspeicher;Liebensteinspeicher;Liebensteinspeicher;Liebensteinspeicher;Wikipedia;no;;-9;;;NA;NA;NA;NA;;<100ha;Low mountain;>12
+Hartsee;86,64;15,47;39,1;530;n;28,51;2;Prealpine;Hartsee;Hartsee;Hartsee;Hartsee;Tabelle Markus;yes;2013;2;4527436;5309873;NA;NA;NA;NA;1,842921784;<100ha;Alpine;>12
+Abtsdorfer See;84,04;9,423;20;425,9;n;21,1;2;Prealpine;Abtsdorfer See;Abtsdorfer See;Abtsdorfer See;Abtsdorfer See;Tabelle Markus;yes;2017;2;4567842,71;5308045,02;NA;NA;NA;NA;2,239201953;<100ha;Alpine;>12
+Drachensee;82,3;2,3;20;408;a;120;6;Low mountain;Drachensee;Drachensee;Drachensee;Drachensee;Wikipedia;no;;6;;;NA;NA;NA;NA;;<100ha;Low mountain;>12
+Pelhamer See;77,9;6,757;21,3;530;n;17,2;2;Prealpine;Pelhamer See;Pelhamer See;Pelhamer See;Pelhamer See;Tabelle Markus;yes;2016;2;4526267;5310576;NA;NA;NA;NA;2,545508362;<100ha;Alpine;>12
+Weitsee;64;2,217;9,3;752,68;n;12,7;4;Alpine;Weitsee;Weitsee;Weitsee;Weitsee;Wikipedia;yes;2011;40;4542772;5283153;NA;NA;NA;NA;5,728461885;<100ha;Alpine;<=12
+Untreusee;60;NA;15;500;a;36;5;Low mountain;Untreusee;Untreusee;Untreusee;Untreusee;Wikipedia;no;;5;;;NA;NA;NA;NA;;<100ha;Low mountain;>12
+Hofstaetter See;58;NA;3;496;n;11;1;Prealpine;Hofstätter See;Hofstätter See;Hofstaetter See;Hofstaetter See;Wikipedia;no;;1;;;NA;NA;NA;NA;;<100ha;Alpine;<=12
+Obersee;57;16,855;51;613;n;38,43;4;Alpine;Obersee;Obersee;Obersee;Obersee;Wikipedia;yes;2013;40;4574317;5264844;NA;NA;NA;NA;2,280035598;<100ha;Alpine;>12
+Barmsee;55;9,07;30;885;n;5,32;3;Prealpine;Barmsee;Barmsee;Barmsee;Barmsee;Wikipedia;yes;2015;3;4443227;5262622;NA;NA;NA;NA;0,586549063;<100ha;Alpine;>12
+Kleiner Arbersee;6;0,25;12;919;n;2,8;-9;NA;Kleiner Arbersee;Kleiner Arbersee;Kleiner Arbersee;;Wikipedia;noMakrophytesMapping;;-9;;;NA;NA;NA;NA;;<100ha;Low mountain;<=12
+Rachelsee;6;NA;14;1070;n;0,58;-9;NA;Rachelsee;Rachelsee;Rachelsee;;Wikipedia;noMakrophytesMapping;;-9;;;NA;NA;NA;NA;;<100ha;Low mountain;>12
+Steinbergersee;1,84;NA;60;364;a;NA;-9;NA;Steinbergersee;Steinber See;Steinberger See;Steinberger See;Tabelle Markus;no;;-9;;;NA;NA;NA;NA;;<100ha;Low mountain;>12
