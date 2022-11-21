@@ -8,3 +8,5 @@ Description: Data analysis for the publication Lewerentz, Hoffmann & Cabral
 License: GPL (>= 3)
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/AnneLew/MacrophytesSpeciesRichnessBavaria
+BugReports: https://github.com/AnneLew/MacrophytesSpeciesRichnessBavaria/issues
